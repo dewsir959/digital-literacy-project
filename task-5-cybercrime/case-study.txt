@@ -1,0 +1,9 @@
+UPI/Online Payment Fraud Case Study
+
+UPI fraud is a common type of cybercrime where attackers trick users into sharing sensitive financial details or approving fraudulent transactions. In a typical scenario, the fraudster contacts the victim by pretending to be a bank official or a trusted service provider. They may send a fake payment request or ask the victim to share an OTP.
+
+The victim is often targeted through phone calls, messages, or fake links. Once the victim shares their details or approves the request, money is instantly transferred from their account. These frauds mainly target students and individuals who are not fully aware of digital security practices.
+
+The consequences include financial loss, stress, and difficulty in recovering the lost money. In many cases, the money is quickly transferred to multiple accounts, making it hard to trace.
+
+This case study highlights the importance of awareness and caution while using digital payment systems.
